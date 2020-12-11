@@ -1,0 +1,102 @@
+* {
+    
+    margin: 0%;
+    padding: 0%;
+ 
+}
+
+
+
+body {
+    background-color: #fff;
+    width: 1860px;
+    margin: auto;
+
+}
+
+
+
+h1 {
+    color: cornsilk;
+    text-align: center;
+    width: auto;
+    line-height: 200%;
+    background-color: cadetblue;
+}
+
+h2 {
+    color: darkblue;
+    background-color: burlywood;
+  
+    text-align: center;
+
+
+}
+
+p {
+    background-color: wheat;
+
+    color: black;
+    text-align: center;
+    width: 100%;
+}
+
+table {
+    background-color: wheat;
+    color: black;
+    text-align: center;
+    
+}
+
+nav ul li {
+    background-color: burlywood;
+    list-style-type: circle;
+    width: 250px;
+    display: inline-block
+    
+}
+
+nav ul {
+    text-align: center;
+    list-style-type: none;
+    background-color: burlywood;
+    line-height: 40px;
+}
+    
+
+
+  
+
+#ilkİletisim {
+    background-color: burlywood;
+    
+
+    
+}
+
+.hakkimdaListe {
+
+    background-color: wheat
+
+    
+    
+}
+
+#kücükBaslık {
+    text-align: left;
+}
+
+footer {
+    background-color: wheat
+}
+
+h3 {
+    background-color: cadetblue;
+    
+    color: white;
+}
+
+address {
+    background-color: burlywood;
+}
+
